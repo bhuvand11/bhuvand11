@@ -47,7 +47,7 @@ Pre-Final Year Student at NMIMS Mukesh Patel School of Technology Management and
 
 ### Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](linkedin.com/in/bhuvan-devarakonda)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([linkedin.com/in/bhuvan-devarakonda](https://linkedin.com/in/bhuvan-devarakonda))
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bhuvandevarakonda@gmail.com)
 
