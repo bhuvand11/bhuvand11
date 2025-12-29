@@ -1,3 +1,6 @@
+### Hey, I'm Bhuvan Devarakonda! 👋  
+Pre-Final Year Student at NMIMS Mukesh Patel School of Technology Management and Engineering, Mumbai
+
 ### Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -42,6 +45,10 @@
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 
+###Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](linkedin.com/in/bhuvan-devarakonda)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bhuvandevarakonda@gmail.com)
 
 <!--
 **bhuvand11/bhuvand11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
