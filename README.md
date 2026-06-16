@@ -56,10 +56,13 @@ Pre-Final Year Computer Engineering Undergrad at NMIMS Mukesh Patel School of Te
 ### Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhuvan-devarakonda)
-
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/dsd11/)
-
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bhuvandevarakonda@gmail.com)
+
+
+### Profile Views
+
+![](https://komarev.com/ghpvc/?username=bhuvand11&label=Profile%20Views&color=0e75b6&style=flat)
 
 <!--
 **bhuvand11/bhuvand11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
