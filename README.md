@@ -1,5 +1,5 @@
 ### Hey, I'm Bhuvan Devarakonda! 👋  
-Pre-Final Year Computer Engineering Undergrad at NMIMS Mukesh Patel School of Technology Management and Engineering, Mumbai
+Final Year Computer Engineering Undergrad at NMIMS Mukesh Patel School of Technology Management and Engineering, Mumbai
 
 ### Tech Stack
 
